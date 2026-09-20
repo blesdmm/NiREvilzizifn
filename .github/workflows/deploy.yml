@@ -9,7 +9,7 @@ on:
       workername:
         description: "Optional: Enter a specific Worker name for this run (lowercase only)"
         required: false
-        default: "0x00"
+        default: "NiREvilzizifn"
       proxyip:
         description: "Optional: Enter a specific Proxy IP/host for this run"
         required: false
